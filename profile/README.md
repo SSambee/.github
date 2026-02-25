@@ -2,7 +2,7 @@
 
 ![SSam B Logo](assets/ssam-b-logo.png)
 
-# SSam B (SSamBee)
+# SSam B (ssambee.com)
 
 **학원/수업 운영을 위한 통합 플랫폼**
 
