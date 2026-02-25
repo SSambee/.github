@@ -187,6 +187,17 @@ flowchart LR
 
 ### 인프라 | 시스템 아키텍쳐
 
+
+#### BE
+- **[AWS BE SYSTEM ARCHITECTURE]**
+<img width="1240" height="723" alt="image" src="https://github.com/user-attachments/assets/37f670d5-17fc-4701-8c6e-b0573e41d605" />
+
+- **[Deep Dive]** **(Made by IcePanel C4 Model)**
+
+> *"Blue-Green 배포 로직과 Lambda 기반 모니터링은 아래의 논리적 아키텍처를 따릅니다."*
+![SsamBee Service(EC2) App Diagram (Current) (3)](https://github.com/user-attachments/assets/08e28070-3884-4b0c-b4e5-569b2b16c737)
+
+
 ---
 
 <!-- ## 📌 프로젝트 계획 -->
