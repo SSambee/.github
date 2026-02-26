@@ -189,6 +189,10 @@ flowchart LR
 
 ### 인프라 | 시스템 아키텍쳐
 
+#### FE
+<img width="1332" height="660" alt="image" src="https://github.com/user-attachments/assets/c4493f7d-06b4-4d84-bac8-69cff0111e67" />
+
+
 #### BE
 
 - **[AWS BE SYSTEM ARCHITECTURE]**
