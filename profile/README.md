@@ -17,7 +17,7 @@
 
 ## 📋 목차
 
-- [SSam B (SSamBee)](#ssam-b-ssambee)
+- [SSam B (ssambee.com)](#ssam-b-ssambeecom)
   - [](#)
   - [📋 목차](#-목차)
   - [✨ 주요 기능](#-주요-기능)
@@ -29,6 +29,8 @@
     - [백엔드](#백엔드)
     - [데이터베이스 (PostgreSQL)](#데이터베이스-postgresql)
     - [인프라 | 시스템 아키텍쳐](#인프라--시스템-아키텍쳐)
+      - [BE](#be)
+  - [🛸 팀 소개](#-팀-소개)
 
 ---
 
@@ -187,20 +189,26 @@ flowchart LR
 
 ### 인프라 | 시스템 아키텍쳐
 
-
 #### BE
+
 - **[AWS BE SYSTEM ARCHITECTURE]**
-<img width="1240" height="723" alt="image" src="https://github.com/user-attachments/assets/37f670d5-17fc-4701-8c6e-b0573e41d605" />
+  <img width="1240" height="723" alt="image" src="https://github.com/user-attachments/assets/37f670d5-17fc-4701-8c6e-b0573e41d605" />
 
 - **[Deep Dive]** **(Made by IcePanel C4 Model)**
 
-> *"Blue-Green 배포 로직과 Lambda 기반 모니터링은 아래의 논리적 아키텍처를 따릅니다."*
-![SsamBee Service(EC2) App Diagram (Current) (3)](https://github.com/user-attachments/assets/08e28070-3884-4b0c-b4e5-569b2b16c737)
-
+> _"Blue-Green 배포 로직과 Lambda 기반 모니터링은 아래의 논리적 아키텍처를 따릅니다."_
+> ![SsamBee Service(EC2) App Diagram (Current) (3)](https://github.com/user-attachments/assets/08e28070-3884-4b0c-b4e5-569b2b16c737)
 
 ---
 
-<!-- ## 📌 프로젝트 계획 -->
+## 🛸 팀 소개
+
+|                   👑 박창기                    |                    이유리                    |                          임경민                           |                     김윤기                      |
+| :--------------------------------------------: | :------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------: |
+| ![창기](https://github.com/p-changki.png?s=20) | ![유리](https://github.com/yoorrll.png?s=20) | ![경민](https://github.com/play-ancora-gyungmin.png?s=20) | ![윤기](https://github.com/rklpoi5678.png?s=20) |
+|                  PM & 프론트                   |                    프론트                    |                          백엔드                           |                  백엔드 & 배포                  |
+
+## <!-- ## 📌 프로젝트 계획 -->
 
 <div align="center">
 
